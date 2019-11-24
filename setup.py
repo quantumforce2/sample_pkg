@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='mehdi_sample_project',
+    name='sample_pkg',
     version='0.1dev',
     packages=['mehdi_sample_pkg',],
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
